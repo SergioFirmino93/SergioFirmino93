@@ -1,16 +1,13 @@
-## Hi there 👋
+## 💻 Sérgio Firmino
 
-<!--
-**SergioFirmino93/SergioFirmino93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante em Análise e Desenvolvimento de Sistemas`**
 
-Here are some ideas to get you started:
+Olá! Meu nome é Sérgio Firmino dos Santos, sou de São Paulo e atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.
+Sou apaixonado por tecnologia, especialmente pelas possibilidades que ela oferece para transformar ideias em soluções práticas e inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho buscado constantemente aprimorar meus conhecimentos em áreas como programação, banco de dados e desenvolvimento web, além de acompanhar as tendências do setor. Estou em busca de uma oportunidade de estágio onde eu possa colocar em prática o que venho aprendendo, contribuir com dedicação e seguir evoluindo profissionalmente.
+
+Estou pronto para aprender, colaborar e crescer dentro de um ambiente dinâmico e desafiador!
+
+---
+
